@@ -17,13 +17,17 @@
       <module fileurl="file://$PROJECT_DIR$/myArray/myArray.iml" filepath="$PROJECT_DIR$/myArray/myArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/myArrayList/myArrayList.iml" filepath="$PROJECT_DIR$/myArrayList/myArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/myArrays/myArrays.iml" filepath="$PROJECT_DIR$/myArrays/myArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myByteStream/myByteStream.iml" filepath="$PROJECT_DIR$/myByteStream/myByteStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/myCalendar/myCalendar.iml" filepath="$PROJECT_DIR$/myCalendar/myCalendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/myClass/myClass.iml" filepath="$PROJECT_DIR$/myClass/myClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollections/myCollections.iml" filepath="$PROJECT_DIR$/myCollections/myCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDate/myDate.iml" filepath="$PROJECT_DIR$/myDate/myDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDiGui/myDiGui.iml" filepath="$PROJECT_DIR$/myDiGui/myDiGui.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/myDuoTai/myDuoTai.iml" />
       <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
       <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFile/myFile.iml" filepath="$PROJECT_DIR$/myFile/myFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/myFinal/myFinal.iml" filepath="$PROJECT_DIR$/myFinal/myFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/myImport/myImport.iml" filepath="$PROJECT_DIR$/myImport/myImport.iml" />
